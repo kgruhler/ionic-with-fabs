@@ -1,7 +1,10 @@
 {
   "name": "ionic-tutorial-app",
   "dependencies": {
-    "angular": "1.2.16",
-    "ionic": "1.0.0-beta.6"
+    "angular": "1.2.23",
+    "ionic": "1.0.0-beta.11"
+  },
+  "resolutions": {
+    "angular": "1.2.23"
   }
 }
