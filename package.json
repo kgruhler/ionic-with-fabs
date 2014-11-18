@@ -1,10 +1,10 @@
 {
   "name": "ionic-with-fabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Ionic Project with fabs as Build System",
   "dependencies": {
     "grunt": "0.4.5",
-    "fabs": "0.6.2",
+    "fabs": "0.6.5",
     "lodash": "2.4.1"
   }
 }
